@@ -25,8 +25,6 @@ The application includes:
 
 ## Screenshots
 
-## Screenshots
-
 <table>
   <tr>
     <td align="center">
@@ -114,16 +112,20 @@ Areas tested include:
 
 ## Selected code samples
 
-The [`code-samples`](code-samples/) directory is intended for selected, reviewed excerpts from the private project.
+The [`code-samples`](code-samples/) directory contains small, reviewed excerpts adapted from the private production project.
 
-Planned samples:
+### Available sample
+
+- [`TrackArmLogicSample.kt`](code-samples/TrackArmLogicSample.kt)  
+  Demonstrates exclusive track arming, toggle-to-unarm behaviour, safe recording placement, insertion below a populated armed track, stable track identities, and protection against accidental audio overwrite.
+
+### Planned samples
 
 - `WaveformTimelineSample.kt`
 - `AtomicProjectSaveSample.kt`
-- `TrackArmLogicSample.kt`
 - `AudioEngineExcerpt.kt`
 
-Project-specific dependencies and implementation details may be omitted. The code samples are provided to demonstrate technical approach rather than to reproduce the complete application.
+Project-specific dependencies and implementation details are intentionally omitted. The samples demonstrate selected technical decisions rather than reproducing the complete application.
 
 ## My role
 
