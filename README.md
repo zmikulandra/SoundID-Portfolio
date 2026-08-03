@@ -114,18 +114,20 @@ Areas tested include:
 
 The [`code-samples`](code-samples/) directory contains small, reviewed excerpts adapted from the private production project.
 
-### Available sample
+### Available samples
 
 - [`TrackArmLogicSample.kt`](code-samples/TrackArmLogicSample.kt)  
   Demonstrates exclusive track arming, toggle-to-unarm behaviour, safe recording placement, insertion below a populated armed track, stable track identities, and protection against accidental audio overwrite.
 
+- [`AtomicProjectSaveSample.kt`](code-samples/AtomicProjectSaveSample.kt)  
+  Demonstrates temporary-file writing, disk synchronization, atomic replacement where supported, rollback after an index-save failure, Save versus Save As behaviour, and monotonic project timestamps.
+
 ### Planned samples
 
 - `WaveformTimelineSample.kt`
-- `AtomicProjectSaveSample.kt`
 - `AudioEngineExcerpt.kt`
 
-Project-specific dependencies and implementation details are intentionally omitted. The samples demonstrate selected technical decisions rather than reproducing the complete application.
+Project-specific dependencies and implementation details are intentionally omitted. These samples demonstrate selected technical decisions rather than reproducing the complete application.
 
 ## My role
 
