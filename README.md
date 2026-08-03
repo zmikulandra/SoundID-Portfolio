@@ -38,7 +38,7 @@ The application includes:
       <b>Project setup</b>
     </td>
     <td align="center">
-      <img src="screenshots/studio-editor.jpg" width="240" alt="SoundID studio editor"><br>
+      <img src="screenshots/studio-editor.jpg.jpg" width="240" alt="SoundID studio editor"><br>
       <b>Multitrack studio</b>
     </td>
   </tr>
