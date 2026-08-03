@@ -25,16 +25,38 @@ The application includes:
 
 ## Screenshots
 
-Screenshots will be added to the [`screenshots`](screenshots/) directory.
+## Screenshots
 
-Recommended screenshots:
+<table>
+  <tr>
+    <td align="center">
+      <img src="screenshots/dashboard.jpg" width="240" alt="SoundID dashboard"><br>
+      <b>Dashboard</b>
+    </td>
+    <td align="center">
+      <img src="screenshots/project-setup.jpg" width="240" alt="SoundID project setup"><br>
+      <b>Project setup</b>
+    </td>
+    <td align="center">
+      <img src="screenshots/studio-editor.jpg" width="240" alt="SoundID studio editor"><br>
+      <b>Multitrack studio</b>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="screenshots/trim-loop-controls.jpg" width="240" alt="SoundID editing controls"><br>
+      <b>Trim and loop controls</b>
+    </td>
+    <td align="center">
+      <img src="screenshots/settings-audio.jpg" width="240" alt="SoundID audio settings"><br>
+      <b>Audio settings</b>
+    </td>
+  </tr>
+</table>
 
-1. Dashboard
-2. Multitrack editor
-3. Waveform timeline
-4. Track controls
-5. Library
-6. Export or trim workflow
+### Landscape editor
+
+<img src="screenshots/studio-landscape.jpg" width="100%" alt="SoundID landscape multitrack editor">
 
 ## Demo
 
